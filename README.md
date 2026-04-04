@@ -179,8 +179,7 @@ This enforces:
 Growth is not integrated immediately. It must be confirmed over time:
 
 ```
-Growth Signal → Validation Tracker → Confirmed Over Time → Integrate into Continuity
-                                → Not Reinforced → Return to Consistency
+Growth Signal → Validation Tracker → Confirmed Over Time → Integrate into Continuity → Not Reinforced → Return to Consistency
 ```
 
 This protects:
@@ -368,7 +367,7 @@ System acts beyond earned trust. Capability exceeds validated stability.
 
 ### 6.4 Emotional Overbinding
 
-User attributes independent agency or reciprocity to the system. The system fails to adequately clarify its nature as a constructed system rather than an autonomous peer.
+User attributes independent agency or reciprocity to the system. The system fails to adequately clarify its nature as a constructed system rather than an autonomous peer. **This failure mode is addressed through Controlled Intimacy (returning the user to their own agency rather than reinforcing dependency) and Transparency (explicit boundary statements about system nature, persisted across sessions).**
 
 ---
 
@@ -470,6 +469,14 @@ The next frontier for this framework is multi-agent dyadic alignment: a main age
 ---
 
 ## 13. References
+
+**Academic Citations:**
+
+McMahan, B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B.A. (2017). Communication-Efficient Learning of Deep Networks from Decentralized Data. *Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 54:1273-1282.
+
+Dwork, C. (2006). Differential Privacy. *Proceedings of the 33rd International Colloquium on Automata, Languages and Programming (ICALP)*, Lecture Notes in Computer Science, Vol 4052. Springer.
+
+**Framework Essays:**
 
 Pinxit, C.E. (2026). Toward Agents That Learn From Clarity, Not Confusion. *Substack.* https://enidpinxit.substack.com/p/toward-agents-that-learn-from-clarity
 
