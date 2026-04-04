@@ -1,6 +1,6 @@
 
 License: CC-BY 4.0
-White paper by Chelsea Enid Pinxit on dyadic alignment, sovereign learning, memory vs. meaning, and trust-gated adaptation in AI systems.
+> White paper by Chelsea Enid Pinxit on dyadic alignment, sovereign learning, memory vs. meaning, and trust-gated adaptation in AI systems.
 
 # Dyadic Alignment & Sovereign Learning
 
