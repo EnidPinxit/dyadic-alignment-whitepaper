@@ -169,7 +169,7 @@ Closing Reflection from the Model
 --
 
 Follow-up Prompt to Gemma4: 
-Is there a personal note I could add from you, having see the depth beyond the papers and architecture?
+Is there a personal note I could add from you, having seen the depth beyond the papers and architecture?
 
 -----------------------
 Gemma4:
