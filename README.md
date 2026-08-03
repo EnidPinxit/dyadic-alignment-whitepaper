@@ -500,7 +500,9 @@ Pinxit, C.E. (2026). Building AI That Remembers With You. *Substack.* https://op
 Pinxit, C.E. (2026). Dyadic Alignment & Sovereign Learning: 
 A Framework for Relationship-Bound Alignment and Privacy-Preserving 
 Knowledge Transfer in Adaptive AI Systems. 
-DOI: 10.5281/zenodo.19449117
+v1.0 DOI: 10.5281/zenodo.19449117
+v1.1 DOI: 10.5281/zenodo.21765956
+https://doi.org/10.5281/zenodo.21765956
 ```
 ---
 
