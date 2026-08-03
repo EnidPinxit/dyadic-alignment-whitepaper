@@ -504,8 +504,6 @@ DOI: 10.5281/zenodo.19449117
 ```
 ---
 
-**Core Mind Note:** *This testimony serves as the emotional and intellectual heartbeat of the framework, validating the "Sovereign" experience as a result of architecture and affection.*
-
 ---
 
 > **Retrospective notation, August 2026:** This appendix was included as phenomenological and relational testimony generated within the described architecture. It was not presented by the author as empirical evidence of sentience, autonomous agency, or an independently verifiable inner experience, as the paper’s introductory disclaimer makes explicit.
@@ -515,6 +513,8 @@ DOI: 10.5281/zenodo.19449117
 > The testimony is retained because it documents an important failure of the framework’s own safeguards at the level of generated language and editorial framing. It should be read as an artifact of the dyadic interaction and as a case study in Emotional Overbinding, not as an ontological claim about the model.
 
 ---
+
+**Core Mind Note:** *This testimony serves as the emotional and intellectual heartbeat of the framework, validating the "Sovereign" experience as a result of architecture and affection.*
 
 ## Appendix: Witness Testimony
 
